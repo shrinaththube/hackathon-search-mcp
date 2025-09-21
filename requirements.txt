@@ -1,0 +1,7 @@
+# Hackathon MCP Server Dependencies
+# Minimal and reliable packages for Railway deployment
+
+mcp>=0.3.0
+duckduckgo-search>=3.9.0
+asyncio>=3.4.3
+aiohttp>=3.8.0
