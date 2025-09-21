@@ -62,7 +62,7 @@ async def handle_list_tools() -> list[Tool]:
         ),
         Tool(
             name="academic_search",
-            description": "Search academic and educational resources. Automatically adds filters for educational sites and academic content.",
+            description="Search academic and educational resources. Automatically adds filters for educational sites and academic content.",
             inputSchema={
                 "type": "object",
                 "properties": {
